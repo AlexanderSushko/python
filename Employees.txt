@@ -1,0 +1,5 @@
+Manager 30000
+Cleaner 5000
+Boss 100000
+Accountant 50000
+Storehouse_worker 15000
